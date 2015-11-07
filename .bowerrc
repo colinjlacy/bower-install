@@ -1,0 +1,9 @@
+{
+  "registry": {
+    "search": [
+      "http://localhost:3000",
+      "https://bower.herokuapp.com"
+    ],
+    "register": "http://localhost:3000"
+  }
+}
