@@ -1,5 +1,5 @@
 {
-  "name": "ignore",
+  "name": "advanced",
   "authors": [
     "colinjlacy <colin@webcake.co>"
   ],
@@ -9,6 +9,7 @@
   "license": "MIT",
   "homepage": "",
   "private": false,
+  "framework": "angular",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -16,5 +17,8 @@
     "test",
     "tests",
     "ignore.js"
-  ]
+  ],
+  "dependencies": {
+
+  }
 }
